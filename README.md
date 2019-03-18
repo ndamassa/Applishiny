@@ -1,5 +1,5 @@
-# PROJET DATA VISUALISATION MARS 2019 MBA ESG
-## Data visualisation with shiny
+# PROJET DATA VISUALIsATION MARS 2019 MBA ESG
+## Data visualization with shiny
 1- **Page d'Accueil** /
 ![alt text](accueil1.png)
 
