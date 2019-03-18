@@ -3,7 +3,8 @@
 1- **Page d'Accueil** /
 ![alt text](accueil1.png)
 
-2- **présentation des données**/
+2- **présentation des données**  
+
 Nous disposons disposons d'une base données de **59881** observations et **18** colonnes. cette base de données represente les logements Airbnb à Paris.
 Elle est composée de 3 types de logements
 **- Entire homm/apt**
