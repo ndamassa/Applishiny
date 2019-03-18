@@ -50,19 +50,19 @@ Ici sont des vidéos, reprentant l'évolution des visites de logement selon le p
  
 ![alt text](anim8.png)
 
- **Représentation géographique des logements**  
+ 7- **Représentation géographique des logements**  
  
  les points en rouge représentent les logements les plus chèrs   
  
 ![alt text](geo9.png)  
 
 
-**Nos Remerciements**  
+8- **Nos Remerciements**  
 
 ![alt text](merci10.png)  
 
 
-**Pour nous contacter**  
+10- **Pour nous contacter**  
 
 ![alt text](contact11.png)
 
