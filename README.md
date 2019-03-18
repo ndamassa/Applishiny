@@ -18,13 +18,15 @@ Elle est composée de 3 types de logements
 
 3-**Visites, Location et prix**  
 
-ce graphique en 3D nous permet de voir comment varient les visistes sur site, et la location d'un logement par rapport à son prix.
+ce graphique en 3D nous permet de voir comment varient les visistes sur site, et la location d'un logement par rapport à son prix.  
+
 ![alt text](prix3.png)
 
 4- **Emplacement du logement**  
 
 Il existe une forte corrélation entre l'emplacement du logement et son prix. 
-Ainsi les logements situés au niveau des Champs Elisée resortent comme les logements les plus chers. 
+Ainsi les logements situés au niveau des Champs Elisée resortent comme les logements les plus chers.   
+
 ![alt text](prix4.png)
 
 ![alt text](prix55.png)  
@@ -32,13 +34,15 @@ Ainsi les logements situés au niveau des Champs Elisée resortent comme les log
 5- **Les Propriétaires**  
 
 Nous aimerions connâitre les noms de propriétaires qui resortent souvent quand on parle de logement sur Airbnb.
-Ici, plus le nom est gros, plus il ressort souvent dans la liste des propriétaies.
+Ici, plus le nom est gros, plus il ressort souvent dans la liste des propriétaies.  
+
 ![alt text](proprio6.png)  
 
 
 6- **Animation**  
 
-Ici sont des vidéos, reprentant l'évolution des visites de logement selon le prix entre 2010 et 2018.
+Ici sont des vidéos, reprentant l'évolution des visites de logement selon le prix entre 2010 et 2018.  
+
 ![alt text](anim7.png)  
 
  
