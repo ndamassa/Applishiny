@@ -20,7 +20,7 @@ Il existe une forte corrélation entre l'emplacement du logement et son prix.
 Ainsi les logements situés au niveau des Champs Elisée resortent comme les logements les plus chers. 
 ![alt text](prix4.png)
 
-![alt text](prix5.png)
+![alt text](prix55.png)
 5- **Les Propriétaires**
 Nous aimerions connâitre les noms de propriétaires qui resortent souvent quand on parle de logement sur Airbnb.
 Ici, plus le nom est gros, plus il ressort souvent dans la liste des propriétaies.
